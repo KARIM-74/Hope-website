@@ -63,9 +63,13 @@ blockquote {
 html {
     font-size: 16px;
     scroll-behavior: smooth;
+    text-align: right;
 
 }
-
+body {
+    direction: rtl; 
+    text-align: right;
+}
 ol,
 ul {
     margin: 0;
