@@ -31,3 +31,6 @@
 .header-area.fixednavbar .sidemenu_btn i{
     color: #000 !important;
 }
+a{
+    text-decoration: none;
+}

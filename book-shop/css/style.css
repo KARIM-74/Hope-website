@@ -172,8 +172,8 @@ h5,
     bottom: 15px;
     content: "";
     border: 4px solid transparent;
-    border-top-color: #f7941d;
-    border-left-color: #f7941d;
+    border-top-color: #62ab00;
+    border-left-color: #62ab00;
     border-radius: 50%;
     -webkit-animation: spinBack 1s linear infinite;
     animation: spinBack 1s linear infinite;
@@ -246,7 +246,7 @@ h5,
     width: 40px;
     position: fixed;
     z-index: 111;
-    background-color: #f7941d;
+    background-color: #62ab00;
     bottom: 10px;
     right: 20px;
     color: #ffffff;
@@ -270,8 +270,8 @@ END scroll-top-arrow
 /*===================================
          Social Icons BG colors
 ======================================*/
-.facebook-bg-hvr:hover{background:#f7941d !important;color: #fff !important; border: 1px solid transparent !important;}
-.twitter-bg-hvr:hover{background:#f7941d !important;color: #fff !important; border: 1px solid transparent !important;}
+.facebook-bg-hvr:hover{background:#62ab00 !important;color: #fff !important; border: 1px solid transparent !important;}
+.twitter-bg-hvr:hover{background:#62ab00 !important;color: #fff !important; border: 1px solid transparent !important;}
 .instagram-bg-hvr:hover{color: #FFFFFF;background: -webkit-gradient(linear, left top, left bottom, from(#aa2fb5), color-stop(93%, #f1762c))!important;background: -o-linear-gradient(top, #aa2fb5 0%, #f1762c 93%)!important;background: linear-gradient(to bottom, #aa2fb5 0%, #f1762c 93%)!important;-webkit-transition: all .5s ease;-o-transition: all .5s ease;transition: all .5s ease;}
 .linkedin-bg-hvr:hover{background:#0077B5 !important;color: #fff !important; border: 1px solid transparent !important;}
 .pinterest-bg-hvr:hover{background:#BD081C !important;color: #fff !important; border: 1px solid transparent !important;}
@@ -295,28 +295,28 @@ END scroll-top-arrow
 }
 
 .black-sm-btn:hover{
-    background: #f7941d !important;
+    background: #62ab00 !important;
     color: #FFFFFF  !important;
-    border: 1px solid #f7941d;
+    border: 1px solid #62ab00;
 }
 
 
 /*color to gradient*/
 /*Slide 2 First Gradient Button*/
 .black-border-color-yellow-gradient-btn{font-size: 12px;font-family: 'Poppins', sans-serif;padding: 10px 25px;border: solid 1px #000000;color: #000000;font-weight: 600;background-color: white;border-radius: 0;position: relative;z-index: 2;}
-.black-border-color-yellow-gradient-btn:after {position: absolute;top: 0;left: 0;content: '';width: 100%;height: 100%;opacity: 0;color: #FFFFFF !important;background-color:#f7941d;border: solid 1px transparent;z-index: -1;}
+.black-border-color-yellow-gradient-btn:after {position: absolute;top: 0;left: 0;content: '';width: 100%;height: 100%;opacity: 0;color: #FFFFFF !important;background-color:#62ab00;border: solid 1px transparent;z-index: -1;}
 .black-border-color-yellow-gradient-btn:hover:after {opacity: 1;}
 .btn.black-border-color-yellow-gradient-btn:hover{color: #FFFFFF;border:solid 1px transparent;}
 
 .black-color-yellow-gradient-btn{font-size: 12px;font-family: 'Poppins', sans-serif;padding: 10px 25px;border: solid 1px transparent;color: #ffffff;font-weight: 600;background-color:#000000;border-radius: 0;position: relative;z-index: 2;}
-.black-color-yellow-gradient-btn:after {position: absolute;top: 0;left: 0;content: '';width: 100%;height: 100%;opacity: 0;color: #FFFFFF !important;background-color:#f7941d;border: solid 1px #f7941d !important;z-index: -1;}
+.black-color-yellow-gradient-btn:after {position: absolute;top: 0;left: 0;content: '';width: 100%;height: 100%;opacity: 0;color: #FFFFFF !important;background-color:#62ab00;border: solid 1px #62ab00 !important;z-index: -1;}
 .black-color-yellow-gradient-btn:hover:after {opacity: 1;}
-.btn.black-color-yellow-gradient-btn:hover{color: #FFFFFF;border:solid 1px #f7941d !important;}
+.btn.black-color-yellow-gradient-btn:hover{color: #FFFFFF;border:solid 1px #62ab00 !important;}
 
 .green-color-yellow-gradient-btn{font-size: 12px;font-family: 'Poppins', sans-serif;padding: 10px 25px;color:#ffffff;;font-weight: 600;background-color:#62ab00;border:1px solid transparent;border-radius: 0px;-webkit-transition: .8s ease !important;-o-transition: .8s ease !important;transition: .8s ease !important;}
-.green-color-yellow-gradient-btn:hover{color: #ffffff !important; ;background-color:#f7941d !important; border: 1px solid transparent;}
+.green-color-yellow-gradient-btn:hover{color: #ffffff !important; ;background-color:#62ab00 !important; border: 1px solid transparent;}
 
-.yellow-color-green-gradient-btn{font-size: 12px;font-family: 'Poppins', sans-serif;padding: 10px 25px;color:#ffffff;;font-weight: 600;background-color:#f7941d;border:1px solid transparent;border-radius: 0px;-webkit-transition: .8s ease !important;-o-transition: .8s ease !important;transition: .8s ease !important;}
+.yellow-color-green-gradient-btn{font-size: 12px;font-family: 'Poppins', sans-serif;padding: 10px 25px;color:#ffffff;;font-weight: 600;background-color:#62ab00;border:1px solid transparent;border-radius: 0px;-webkit-transition: .8s ease !important;-o-transition: .8s ease !important;transition: .8s ease !important;}
 .yellow-color-green-gradient-btn:hover{color: #ffffff !important; ;background-color:#62ab00 !important; border: 1px solid transparent;}
 
 
@@ -392,7 +392,7 @@ END scroll-top-arrow
     transition: .8s ease;
 }
 .product-listing .product-filter-nav .product-category ul li:hover a{
-    color: #f7941d;
+    color: #62ab00;
 }
 .product-listing .product-filter-nav .product-category ul li:hover span{
     color: #62ab00;
@@ -408,7 +408,7 @@ END scroll-top-arrow
     margin-bottom: 15px;
 }
 .product-listing .product-filter-nav .product-price .price-num #min-p,.product-section-body .product-filter-nav .product-price .price-num #max-p{
-    color: #f7941d;
+    color: #62ab00;
     font-family: Poppins, "sans-serif";
     font-weight: normal;
 }
@@ -486,7 +486,7 @@ END scroll-top-arrow
 }
 .product-listing-products .product-list .p-item-detail .p-item-price{
     font-size: 15px;
-    color: #f7941d;
+    color: #62ab00;
     font-family: Poppins, sans-serif;
     font-weight: normal;
     text-align: center;
@@ -496,7 +496,7 @@ END scroll-top-arrow
 }
 
 .product-listing-products .manage-color-hover:hover .product-item + .p-item-detail .p-item-name{
-    color: #f7941d;
+    color: #62ab00;
 }
 .product-listing-products .manage-color-hover:hover .product-item + .p-item-detail .p-item-price{
     color: #000000;
@@ -602,7 +602,7 @@ END scroll-top-arrow
     -ms-flex-align: center;
     align-items: center;
     min-height: 100vh;
-    background-image: url("../img/D-13\ -\ Copy.jpg");
+    background-image: url("../img/banner.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -634,7 +634,7 @@ END scroll-top-arrow
     font-size: 15px;
 }
 
-.homer-banner .banner-description a:before{
+/* .homer-banner .banner-description a:before{
     content: "";
     width: 85px;
     border: 1px solid #000000;
@@ -649,8 +649,8 @@ END scroll-top-arrow
     font-family: "Font Awesome 5 Free Solid";
     display: inline-block;
     width:25px;
-    color: #f7941d;
-}
+    color: #62ab00;
+} */
 /*BANNER HOME END*/
 
 /*START SERVICES*/
@@ -746,7 +746,7 @@ END scroll-top-arrow
     transition: .8s ease;
 }
 .manage-icons li a:hover .search-sidebar-hover{
-    color: #f7941d;
+    color: #62ab00;
 }
 
 
@@ -754,7 +754,7 @@ END scroll-top-arrow
     /*background: linear-gradient(to right, #FC2548 -50%, #f11fad 93%) ;*/
     /*-webkit-background-clip: text;*/
     /*-webkit-text-fill-color: transparent;*/
-    color: #f7941d;
+    color: #62ab00;
 }
 
 .manage-icons .dropdown-menu .dropdown-item {
@@ -869,7 +869,7 @@ END scroll-top-arrow
     font-size: 18px;
 }
 .search-listing .media:hover .name{
-    color: #f7941d;
+    color: #62ab00;
 }
 
 .search-listing .media .category{
@@ -933,7 +933,7 @@ END scroll-top-arrow
 }
 
 .brand-search-box .media:hover .media-body h5{
-    color: #f7941d;
+    color: #62ab00;
 }
 .brand-search-box .media:hover .media-body p{
     color: #000000;
@@ -988,7 +988,7 @@ END scroll-top-arrow
 }
 
 .outlet-media .media-body h6  a:hover{
-    color: #f7941d;
+    color: #62ab00;
 }
 
 
@@ -1082,7 +1082,7 @@ END scroll-top-arrow
 }
 
 .portfolio-section .cbp-l-filters-button .cbp-filter-item.cbp-filter-item-active {
-   background-color: #f7941d;
+   background-color: #62ab00;
     color: #fff;
     border: none;
 }
@@ -1163,7 +1163,7 @@ END scroll-top-arrow
 }
 
 .portfolio-section .cbp .cbp-item:hover .portfolio-title{
-    color:#f7941d !important;
+    color:#62ab00 !important;
 }
 
 .portfolio-section .cbp .cbp-item:hover .portfolio-des{
@@ -1209,7 +1209,7 @@ END scroll-top-arrow
 }
 
 .portfolio-section  .navigation-link-prev a,.portfolio-section  .navigation-link-next a i{
-    color: #f7941d;
+    color: #62ab00;
 }
 
 
@@ -1374,7 +1374,7 @@ END scroll-top-arrow
     width: 40px;
     height: 40px;
     color: white;
-    background-color: #f7941d;
+    background-color: #62ab00;
     top: 10px;
     left: 5px;
     border-radius: 50px;
@@ -1426,7 +1426,7 @@ END scroll-top-arrow
 }
 
 .lastest_arrivals .lastest_arrival_items .card:hover .card-body h5 {
-    color: #f7941d !important;
+    color: #62ab00 !important;
 }
 
 .lastest_arrivals .lastest_arrival_items .card:hover .card-body p{
@@ -1448,7 +1448,7 @@ END scroll-top-arrow
 }
 
 .lastest_arrivals .lastest_featured_products .owl-dots .owl-dot.active{
-    background-color: #f7941d;
+    background-color: #62ab00;
 }
 
 
@@ -1699,7 +1699,7 @@ END scroll-top-arrow
 }
 
 .SignInclass a{
-    color: #f7941d;
+    color: #62ab00;
 }
 .registeration-detail{
 
@@ -1714,7 +1714,7 @@ END scroll-top-arrow
     font-family: Poppins, "sans-serif";
     font-size: 14px;
     font-weight: normal;
-    color: #f7941d;
+    color: #62ab00;
     margin-bottom: 20px;
 }
 .registeration-detail  .title{
@@ -1742,7 +1742,7 @@ END scroll-top-arrow
 }
 
 .registeration-detail  .about-list li i{
-    color: #f7941d;
+    color: #62ab00;
     font-size: 17px;
 }
 .registeration-detail  .about-list li span{
@@ -1816,7 +1816,7 @@ END scroll-top-arrow
     font-size: 18px;
     font-family: "Poppins", sans-serif;
     font-weight: bolder;
-    background-color: #f7941d;
+    background-color: #62ab00;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -1850,7 +1850,7 @@ END scroll-top-arrow
 }
 
 .cart_table .btn-close:hover i{
-    color: #f7941d;
+    color: #62ab00;
 }
 
 .cart_table .shopping-product {
@@ -2194,7 +2194,7 @@ form.findus .form-control, form.findus textarea {
 }
 
 .product-body .product-list .product-single-price h4 .real-price{
-    color: #f7941d;
+    color: #62ab00;
 }
 
 .pro-description{
@@ -2221,7 +2221,7 @@ form.findus .form-control, form.findus textarea {
 }
 
 .product-body .product-detail .product-checklist ul li i{
-    color: #f7941d;
+    color: #62ab00;
 }
 .product-body .product-list .product-detail .product-single-price{
     margin-top: 20px;
@@ -2239,7 +2239,7 @@ form.findus .form-control, form.findus textarea {
 }
 
 .product-body .product-list .product-tags-list .breadcrumb .breadcrumb-item a{
-    color: #f7941d;
+    color: #62ab00;
     font-size: 12px;
     font-family: Poppins, sans-serif;
 }
@@ -2297,7 +2297,7 @@ form.findus .form-control, form.findus textarea {
 
 .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
     color: white;
-    background-color: #f7941d;
+    background-color: #62ab00;
 }
 
 .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
@@ -2556,7 +2556,7 @@ textarea:focus{
     margin-bottom: 15px;
 }
 .contact-sec .contact-detail .ex-detail .fly-text{
-    color: #f7941d;
+    color: #62ab00;
     left: -49px;
     font-size: 14px;
     font-family: Poppins, "sans-serif";
