@@ -602,7 +602,7 @@ END scroll-top-arrow
     -ms-flex-align: center;
     align-items: center;
     min-height: 100vh;
-    background-image: url("../img/banner.jpg");
+    background-image: url("../img/banner.webp");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
