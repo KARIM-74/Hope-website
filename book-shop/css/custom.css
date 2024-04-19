@@ -4,3 +4,30 @@
 ...
 ...
 */
+.homer-banner,
+.banner-section{
+    z-index: 1;
+    position: relative;
+}
+
+.homer-banner::before,
+.banner-section::before{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    z-index: 0;
+}
+
+.header-area .nav-link,
+.header-area .sidemenu_btn i{
+    color: #fff !important;
+}
+
+.header-area.fixednavbar .nav-link,
+.header-area.fixednavbar .sidemenu_btn i{
+    color: #000 !important;
+}

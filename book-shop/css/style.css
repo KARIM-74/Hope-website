@@ -601,7 +601,7 @@ END scroll-top-arrow
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    min-height: 120vh;
+    min-height: 100vh;
     background-image: url("../img/D-13\ -\ Copy.jpg");
     background-size: cover;
     background-position: center;
@@ -1258,6 +1258,8 @@ END scroll-top-arrow
     background-size: cover;
     margin-bottom: 100px;
     min-height: 150px;
+    background-attachment: fixed;
+    color: #fff;
 }
 
 .paralax-data{
